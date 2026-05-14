@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #eef2ff 0%, #fff7ed 45%, #ecfeff 100%);
+  color: #172033;
+}
+
+button, select {
+  font: inherit;
+}
+
+.dev-name {
+  font-family: "Noto Sans Devanagari", "Mangal", system-ui, sans-serif;
+}

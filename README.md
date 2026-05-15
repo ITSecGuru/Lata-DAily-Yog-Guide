@@ -2,6 +2,7 @@
 
 A React + Vite yoga routine guide based on the v4 specification.
 
+
 The app supports:
 
 - English/Hindi interface labels
